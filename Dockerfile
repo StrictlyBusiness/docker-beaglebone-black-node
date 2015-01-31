@@ -1,4 +1,4 @@
-FROM mazzolino/armhf-debian
+FROM resin/beaglebone-black-debian
 
 MAINTAINER Sean Lynch <sean.lynch@sbcs.com>
 
